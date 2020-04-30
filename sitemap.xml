@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/0/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/abouzar-orlando/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-patti/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
   </url>
   
@@ -11,11 +27,27 @@
   </url>
   
   <url>
+    <loc>/author/edoardo/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/enrico-acquaviva/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/estebsari/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
   </url>
   
   <url>
     <loc>/author/matteo-orlando/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/matteo-pons/</loc>
   </url>
   
   <url>
